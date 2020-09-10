@@ -2,7 +2,7 @@ server:
   port: 8090
 spring:
   application:
-    name: usian-item-service
+    name: usian-item-service22
   redis:
     cluster:
       nodes:
